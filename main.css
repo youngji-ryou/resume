@@ -118,7 +118,7 @@ ul > li:before {
   left: 0;
   display: inline-block;
   content: "•";
-  color: #3a7bd5;
+  color: #000205;
 }
 
 .container {
